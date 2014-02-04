@@ -1,0 +1,51 @@
+#Fichier contenant des lieux prédéfinis
+#sert pour l'affichage de la comboBox
+#
+#classé par ordre alphabétique dans la combobox,
+#ce fichier, comme pour les étoiles, 
+#ne sert qu'a créer une liste static dans java.
+#
+#cette liste est donc mise a jour des que le fichier est
+#modifié
+#
+#
+#--- détail de l'enregistrement : ---
+#
+#nomDeLaVille,long1,long2,Long3,lat1,lat2,lat3,gmt
+#String[] villes =
+#{"Bordeaux","Lyon","Marseille","Montpellier","Nantes","Nices"
+#"Palaiseau","Paris","Rennes","Strasbourg","Toulouse"};
+#--début--
+Palaiseau,02,15,02,48,43,09,1
+esssais,10,10,10,10,10,10,1
+coucou,10,10,10,10,10,101
+palaiseau bis,2,15,2,48,43,9,1
+,10,10,10,10,10,101
+je sai saps,15,15,15,15,15,15,1
+une aiter,10,20,30,40,50,60,1
+essais 21h,20,30,40,10,20,30,1
+encore un !!,40,25,45,50,35,55,1
+dernier,0,0,0,0,0,0,1
+21h01 faut que ca marche,0,15,30,60,15,0,1
+presque palaiseau,20,0,0,40,0,0,1
+palaiseau inversée,40,0,0,20,0,0,1
+15 pour voir,15,15,15,15,15,15,1
+10 déja vu !,10,10,10,10,10,10,1
+vers marseille,0,0,0,30,0,0,1
+ville sur equateur,50,0,0,0,0,0,1
+youhou c'est moi,15,40,50,60,50,41
+lundi 20h00,15,15,15,15,15,15
+ma bite,15,15,15,15,15,15
+ple nord,0,0,0,90,0,0
+Palaiseau bis,10,10,10,10,10,10
+bordeaux,10,10,10,10,10,10
+rennes,10,10,10,10,10,10
+palaiseau,10,10,10,10,10,10
+paris,10,10,10,10,10,10
+marseille,10,10,10,10,10,10
+toulouse,10,10,10,10,10,10
+metz,10,10,10,10,10,10
+Pau,48,12,13,5,2,3
+la rochelle,-1,10,0,46,10,0
+la rochelle,1,10,0,46,10,0
+ibiza,1,39,25,39,1,59

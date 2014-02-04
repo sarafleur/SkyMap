@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jun 03 21:21:14 CEST 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Carte du ciel_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Interface
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
